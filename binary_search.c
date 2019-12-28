@@ -7,7 +7,7 @@
      printf("enter number of elements\n");
      scanf("%d",&n);
 
-     printf("enter %d integers\n",n);
+     printf("enter %d integers.\n",n);
 
      for(i=0;i<n;i++)
         scanf("%d",&array[i]);
